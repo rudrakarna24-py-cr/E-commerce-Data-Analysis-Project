@@ -8,7 +8,7 @@
 
 
 # -------------------------------------------------------
-# STEP 1: Import Libraries
+# Import Libraries
 # -------------------------------------------------------
 import pandas as pd
 import numpy as np
@@ -30,7 +30,7 @@ print("✅ Step 1: Libraries imported successfully!\n")
 
 
 # -------------------------------------------------------
-# STEP 2: Upload CSV via Google Colab
+# Upload CSV via Google Colab
 # -------------------------------------------------------
 print("=" * 55)
 print("STEP 2: UPLOAD CSV FILE")
@@ -55,7 +55,7 @@ print(f"   Shape       : {df.shape[0]:,} rows × {df.shape[1]} columns\n")
 
 
 # -------------------------------------------------------
-# STEP 3: Data Exploration
+# Data Exploration
 # -------------------------------------------------------
 print("=" * 55)
 print("STEP 3: DATA EXPLORATION")
@@ -88,7 +88,7 @@ print(df['age_group'].value_counts())
 
 
 # -------------------------------------------------------
-# STEP 4: Data Cleaning
+# Data Cleaning
 # -------------------------------------------------------
 print("\n" + "=" * 55)
 print("STEP 4: DATA CLEANING")
@@ -121,7 +121,7 @@ print("✅ Cleaning complete!\n")
 
 
 # -------------------------------------------------------
-# STEP 5: Pandas Analysis (mirrors SQL queries)
+# Pandas Analysis (mirrors SQL queries)
 # -------------------------------------------------------
 print("=" * 55)
 print("STEP 5: PANDAS ANALYSIS")
@@ -194,7 +194,7 @@ print(shipping_cat.to_string(index=False))
 
 
 # -------------------------------------------------------
-# STEP 6: PostgreSQL Query Reference
+# PostgreSQL Query Reference
 # -------------------------------------------------------
 print("\n" + "=" * 55)
 print("STEP 6: POSTGRESQL QUERY REFERENCE")
@@ -286,7 +286,7 @@ for title, query in queries.items():
 
 
 # -------------------------------------------------------
-# STEP 7: Visualisations using Matplotlib
+# Visualisations using Matplotlib
 # -------------------------------------------------------
 print("\n" + "=" * 55)
 print("STEP 7: GENERATING VISUALISATIONS")
@@ -407,7 +407,7 @@ print("✅ Return rate chart saved → return_rate_by_location.png\n")
 
 
 # -------------------------------------------------------
-# STEP 8: Key Insights
+# Key Insights
 # -------------------------------------------------------
 print("=" * 55)
 print("STEP 8: KEY INSIGHTS")
