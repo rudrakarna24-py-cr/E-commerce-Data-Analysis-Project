@@ -1,6 +1,6 @@
 # ============================================================
 # Diversified E-Commerce Product Analysis — EDA Project
-# Course  : Data Science - I  |  Internal Component II
+# Field: Data Science
 # Dataset : diversified_ecommerce_dataset.csv
 # Tools   : Python (Pandas, NumPy, Matplotlib) + PostgreSQL
 # Platform: Google Colab
