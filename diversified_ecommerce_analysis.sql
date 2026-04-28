@@ -1,6 +1,6 @@
 -- ================================================================
 -- Diversified E-Commerce Product Analysis — SQL Project
--- Course  : Data Science - I  |  Internal Component II
+-- Field  : Data Science
 -- Dataset : diversified_ecommerce_dataset.csv
 -- Columns : product_id, product_name, category, price, discount,
 --           tax_rate, stock_level, age_group, location, gender,
