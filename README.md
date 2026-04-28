@@ -1,3 +1,4 @@
+This project is part of my ongoing hands-on learning in Data Science, where I am actively building real-world projects to strengthen my skills.
 # E-commerce Data Analysis Project
 
 ## Overview
